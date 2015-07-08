@@ -1,8 +1,8 @@
 # StockFilter
 
-StockFilter is born on a flight when I came back to Toronto from Shanghai. 
-During flight, my friend who majors in Finance complains to me that different Technical indicators could provide so much information about a Company's Financial health circumstance ,but there isn't any share analysis tool.
-At the end of the day, we designed and implemented StockFilter as a analysis tool to help investor in share market to better analyse different shares.
+StockFilter is born on a flight when I came back to Toronto from Shanghai. <br /> <br />
+During the flight, my friend who majors in Finance complained to me that different Technical indicators could provide information about a Company's Financial health circumstance ,but it's hard to watch and inspect. What we want is just a piece of mind.   <br /> <br />
+At the end of the day, we decided to designe and implement StockFilter as a analysis tool or "filter" to help investor in share market to simply choose some potential stocks . <br /> <br />
 Analysis engine is built with C++ and C, based on Trend Line and Technical indicator in Shanghai Stock Exchange.  (GUI is still being developed)
 
 
